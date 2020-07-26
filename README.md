@@ -15,3 +15,5 @@ The averages are taken from various sensors located around the plant that record
 The evaluation was on basis of the final **RMSE** score
 
 ![RMSE](rmse.PNG)
+# Result
+The machine learning model gives a final score of **2.2722068544013796**
