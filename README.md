@@ -14,4 +14,4 @@ The averages are taken from various sensors located around the plant that record
 # Evaluation
 The evaluation was on basis of the final **RMSE** score
 
-![RMSE](rmse.png)
+![RMSE](rmse.PNG)
